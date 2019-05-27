@@ -7,7 +7,7 @@ class Hash
           array.push(key)# code goes here
        end
       end
-    end 
+    end
     array
-  end 
+  end
 end
